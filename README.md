@@ -85,7 +85,7 @@ The instructions for this mini project are divided into the following subsection
 
     Use the information from the ERD to create a table schema for each CSV file.
 
-    ![crowdfunding_db_model](https://github.com/rachelschoen/Crowdfunding_ETL/assets/161248655/3498020f-8c29-4069-b46b-4611eda2f1a9)
+![crowdfunding_db_model](https://github.com/rachelschoen/Crowdfunding_ETL/assets/161248655/3498020f-8c29-4069-b46b-4611eda2f1a9)
 
 
 Note: Remember to specify the data types, primary keys, foreign keys, and other constraints.
