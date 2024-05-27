@@ -15,6 +15,9 @@ subcategory_id VARCHAR not null,
 Subcategory VARCHAR not null,
 primary key(subcategory_id));
 
+-- The above tables must be created and imported before the --
+-- campaign table can be created and imported due to the key structure --
+
 create table campaign(
 cf_id INT not null,
 contact_id INT not null,
