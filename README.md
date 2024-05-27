@@ -87,8 +87,7 @@ The instructions for this mini project are divided into the following subsection
 
 ![crowdfunding_db_model](https://github.com/rachelschoen/Crowdfunding_ETL/assets/161248655/3498020f-8c29-4069-b46b-4611eda2f1a9)
 
-
-Note: Remember to specify the data types, primary keys, foreign keys, and other constraints.
+The above is the table schema we created for each CSV file.
 
     Save the database schema as a Postgres file named crowdfunding_db_schema.sql, and save it to your GitHub repository.
 
